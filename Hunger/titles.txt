@@ -1,0 +1,360 @@
+//TITLES FOR HALF-LIFE
+//DO NOT ALTER THIS FILE
+// Position command $position x y 
+// x & y are from 0 to 1 to be screen resolution independent
+// -1 means center in each dimension
+// Effect command $effect <effect number>
+// effect 0 is fade in/fade out
+// effect 1 is flickery credits
+// effect 2 is write out (training room)
+// Text color r g b command $color
+// fadein time fadeout time / hold time
+// $fadein (message fade in time - per character in effect 2)
+// $fadeout (message fade out time)
+// $holdtime (stay on the screen for this long)
+
+//INTRO TITLES
+// All centered for now
+$position -1 -1
+$effect 2
+// This is the final color
+$color 200 0 0
+// This is the highlight color
+$color2 255 0 0
+// This is the time it takes to fade each character
+$fadein 0.01
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.25
+// How long to hold the message on the screen (after it scans out)
+$holdtime 3.5
+// How long it takes to fade out the message after holding
+$fadeout 1.5
+
+THPCG
+{
+PC GAMER
+Presents:
+}
+
+
+//FINAL TITLES
+// All centered for now
+$position -1 -1
+$effect 2
+// This is the final color
+$color 200 0 0
+// This is the highlight color
+$color2 255 0 0
+// This is the time it takes to fade each character
+$fadein 0.01
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.25
+// How long to hold the message on the screen (after it scans out)
+$holdtime 4.0
+// How long it takes to fade out the message after holding
+$fadeout 1.0
+
+THEND1
+{
+to be continued. . .
+}
+
+THLATER
+{
+20 Minutes Later. . .
+}
+
+KILLALF
+{
+You Killed Alfred. . .
+}
+
+KILLPILOT
+{
+Your Rescuer Has Died. . .
+}
+
+THEND2
+{
+They Hunger by: Neil Manke
+Design/Coding/Technical Advisor: Einar Saukas
+Sound Producer: Magnus Jansen 
+Modeller/Skins: Jack Cooper
+Main Tester: Paul Taylor
+Original Concept by: Bill Harms
+}
+
+TH3END2
+{
+They Hunger by: Neil Manke
+Design/Coding/Technical Advisor: Einar Saukas
+Models/Skins: Jack Cooper, Hollowmind
+Sound Engineers: Dave Obrecht, Magnus Jansen
+Asst. Sound Engineer:  Bennett Malbon
+Main Tester: Paul Taylor
+Original Concept by: Bill Harms
+}
+
+THEND3
+{
+Testing:
+Mark A. Jensen
+John SaintBoi Parks
+Morgan Parry
+Jiang Pi
+Richard Sanchez
+Gene Spinks
+Eric Sutton
+Paul Taylor
+Dave Waters
+}
+
+TH3END4
+{
+Testing:
+Blue2K
+Brian Thomas Barnhart
+Don Ferris
+Mark A. Jensen
+MoldedGuppy
+SaintBoi
+Richard Sanchez
+Ben Varela
+Dave Waters
+}
+
+THEND4
+{
+Voice Acting:
+Jack Cooper
+David Ilstedt
+Per Jacobsson
+Magnus Jansen
+Petter Mork
+Lo Rumar
+Richard Sanchez
+}
+
+TH3END5
+{
+Voice Acting:
+Brian Thomas Barnhart
+Jack Cooper
+Margaret A. Dessypris
+David Ilstedt
+Per Jacobsson
+Magnus Jansen
+Bennett Malbon
+Petter Mork
+Dave Obrecht
+Richard James Ramirez
+Lo Rumar
+Richard Sanchez
+}
+
+TH3END3
+{
+Additional Help:
+Ted Anderson
+Blue2K
+Nick "Crinity" Coombe
+Mighty Pete
+MoldedGuppy
+Sebastian Croon
+Dave Waters
+"You Are What I Eat" by:
+Bennett Malbon and Dave Obrecht
+}
+			
+THEP2START
+{
+THEY HUNGER
+Episode 2: Rest in Pieces
+}
+
+THEP3START
+{
+THEY HUNGER
+Episode 3: Rude Awakening
+}
+
+//TIME TITLES
+// All centered for now
+$position -1 -1
+$effect 2
+// This is the final color
+$color 200 0 0
+// This is the highlight color
+$color2 255 0 0
+// This is the time it takes to fade each character
+$fadein 0.01
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.25
+// How long to hold the message on the screen (after it scans out)
+$holdtime 2.0
+// How long it takes to fade out the message after holding
+$fadeout 1.0
+
+THTIME1
+{
+4:39 AM
+}
+
+THTIME2
+{
+12:26 PM
+}
+
+THTIME3
+{
+1:05 AM
+}
+
+//FINAL TITLES
+// All centered for now
+$position -1 -1
+$effect 2
+// This is the final color
+$color 200 0 0
+// This is the highlight color
+$color2 255 0 0
+// This is the time it takes to fade each character
+$fadein 0.01
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.25
+// How long to hold the message on the screen (after it scans out)
+$holdtime 600
+// How long it takes to fade out the message after holding
+$fadeout 1.5
+
+THEND5
+{
+THEY HUNGER
+Presented by: 
+PC Gamer
+http://www.pcgamer.com/
+Created by:
+Black Widow Games  
+http://www.planethalflife.com/manke
+}
+
+// In-Game messages
+$position -1 0.65
+$effect 2
+// This is the final color
+$color 100 100 100
+// This is the highlight color
+$color2 240 110 0
+// This is the time it takes to fade each character
+$fadein 0.01
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.25
+// How long to hold the message on the screen (after it scans out)
+$holdtime 2.0
+// How long it takes to fade out the message after holding
+$fadeout 0.5
+
+GAMESAVED
+{
+Saved...
+}
+
+// Test values -- JAY
+$position -1 0.65
+// Scan-out text effect
+$effect 2
+// This is the final color
+$color 100 100 100
+// This is the highlight color
+$color2 0 200 50
+// This is the time it takes to fade each character
+$fadein 0.005
+// This is the amount of time the highlight lags behind the leading edge of the text
+$fxtime 0.5
+// How long to hold the message on the screen (after it scans out)
+$holdtime 3.5
+// How long it takes to fade out the message after holding
+$fadeout 1.5
+
+// Spectator Menu
+Spec_Mode1
+{
+Locked Chase-Camera Mode
+}
+
+Spec_Mode2
+{
+Free Chase-Camera Mode
+}
+
+Spec_Mode3
+{
+Free Roaming Mode
+}
+
+Spec_NoTarget
+{
+No valid targets. Cannot switch to Chase-Camera Mode.
+}
+
+Spec_Help
+{
+ENTER to Play  FIRE for Next Target  ALT-FIRE for Prev Target  JUMP to Change Modes
+}
+
+Spec_Help2
+{
+Your text messages can only be seen by other Spectators
+}
+
+// Multiplayer Scoreboard
+Spectators
+{
+Spectators
+}
+
+Unassigned
+{
+Unassigned
+}
+
+TEAMS
+{
+TEAMS
+}
+
+PLAYERS
+{
+PLAYERS
+}
+
+CLASS
+{
+CLASS
+}
+
+SCORE
+{
+SCORE
+}
+
+DEATHS
+{
+DEATHS
+}
+
+LATENCY
+{
+LATENCY
+}
+
+// other menu text
+Menu_OK
+{
+OK
+}
+
+Menu_Cancel
+{
+CANCEL
+}

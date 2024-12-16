@@ -1,0 +1,156 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WARNING: HalfLife Registered Ver. 1.1.0.4 (or higher) is Required!
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+27/03/01	"PC GAMER presents: They Hunger - Episode 3"
+		"Rude Awakening"
+
+New HalfLife Pak w/26 Single Player Levels [N.I.C. episodes 1 & 2]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Designer/Mapper:                   Neil Manke
+Design/Tech Advisor & Programmer:  Einar Saukas
+Models & Skins:                    Jack Cooper
+Sound Engineers:                   Dave Obrecht, Magnus Jansén
+Zombie Bull & Chicken Models:      Dik "Hollowmind" Askren
+Asst. Sound Engineer:              Bennett Malbon
+DM Maps:                           Dave Waters
+
+web site:      http://www.planethalflife.com/manke/
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+If you want to see more 'PC Gamer presents' Halflife levels, write
+and let us know! Send e-mail to the PC Gamer Disc Editor....
+
+Jeremy Williams <jeremy@pcgamer.com>
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ADDITIONAL CREDITS:
+
+"You Are What I Eat" 
+Song by:                Bennett Malbon & Dave Obrecht
+
+Lead Tester:            Paul Taylor
+
+Custom Textures:        Neil Manke
+
+End Scene Badomen Sky:  Mighty Pete
+                        http://www.geocities.com/petes-oasis/
+
+Cloudy Gray Sky:        Nick "Crinity" Coombe
+                        www.planethalflife.com/crinity/
+
+Misc. Art Help:         Ted Anderson
+                        C-S textures used: Barking Dog
+                        Paul "Blue2K" Parry
+
+Taurus PT145T Handgun
+& G36 Sniper Rifle by:  Sebastian Croon a.k.a. Spawn 
+                        [based on Gooseman animations]
+
+TH3 Walkthrough:        MoldedGuppy (Jerry)
+                                             
+Testing:                Blue2K
+                        Brian Thomas Barnhart
+                        Don Ferris
+                        Mark A. Jensen
+                        MoldedGuppy
+                        SaintBoi
+                        Richard Sanchez
+                        Paul Taylor
+                        Ben Varela
+                        Dave Waters
+                        
+Voice acting:           Brian Thomas Barnhart
+                        Margaret A. Dessypris
+                        Bennett Malbon
+                        Dave Obrecht
+                        Richard James Ramirez
+                        Richard Sanchez
+                        Jack Cooper
+                        Magnus Jansén
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+IMPORTANT!!! ....HOW TO RUN
+---------------------------
+
+1) Make sure you have Halflife version 1.1.0.4 or higher,
+i.e. one of those versions that include "Team Fortress 1.5"
+(instead of "Team Fortress Classic"). To update your version
+of Half-Life go to http://planethalflife.com/files/
+or use Sierra's AutoUpdate feature. 
+
+NOTE: They Hunger will NOT work with 'Opposing Forces' or 
+'Game of the Year' versions of Half-Life
+
+2) Install They Hunger into the Halflife directory. Now the
+file layout should look as follows:
+
+*:\HALFLIFE
+        |
+        +--- HUNGER
+        |       |
+        |       +-- They_Hunger1_2.txt
+        |       +-- They_Hunger3.txt
+        |       +-- liblist.gam
+        |       +-- neilm2.wad
+        |       +-- neilm4.wad
+        |       +-- neilm5.wad
+        |       +-- cs_bdog.wad
+        |       +-- cached.wad
+        |       +-- pak0.pak
+        |       +-- pak1.pak
+        |       +-- pak2.pak
+        |       +-- pak3.pak
+        |       +-- pak4.pak
+        |       +-- titles.txt
+        |       +-- mapcycle.txt
+        |       +-- hunger.ico
+        |       +-- MEDIA
+        |       |      |
+        |       |      +-- logo.avi
+        |       |
+        |       +-- DLLS
+        |       |      |
+        |       |      +-- einar.dll
+        |       |
+        |       +-- CL_DLLS
+        |              |
+        |              +-- client.dll
+        +--- TFC
+        |
+        +--- VALVE
+
+
+3) Now start HalfLife normally.
+
+4) From the main menu, click on "Custom game". You will see
+now a list of all the mods available on your computer. Select 
+"They Hunger" and click on "Activate". (If you don't see an
+option "Custom game" then you have to update your version
+of Halflife!)
+
+5) Select "Done" to return to the main HalfLife menu. The
+"They Hunger" logo should appear on the screen.
+
+6) Now start a new game and select your skill level. You are
+now playing They Hunger episode 1!
+
+7) If you wish to only play They Hunger episode 3, then you
+must first start a new game and select your skill level.
+After this, press ESC and click on option "They Hunger 3".
+
+NOTE: Please consult Sierra technical help and your Halflife
+documentation for additional help on how to run custom games 
+in version 1.1.0.4 (or higher).
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+"They Hunger" is Copyright (c) Imagine Media.  All rights reserved.
+Duplication is strictly prohibited without the express written
+permission from Imagine Media.  "They Hunger" may only be
+distributed on the web through http://www.dailyradar.com
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
